@@ -1,6 +1,5 @@
----
-
 **Intelligent Album Generator**
+
 ## SECTION 1 : PROJECT TITLE
 ## Intelligent Album Generator
 
