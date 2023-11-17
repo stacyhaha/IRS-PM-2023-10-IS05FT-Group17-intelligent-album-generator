@@ -1,0 +1,98 @@
+[
+    {
+        "background_extractor": "canteen",
+        "main_colors_extractor": [
+            [
+                [
+                    233,
+                    3,
+                    4
+                ],
+                0.8
+            ],
+            [
+                [
+                    12,
+                    45,
+                    2
+                ],
+                0.1
+            ],
+            [
+                [
+                    87,
+                    22,
+                    222
+                ],
+                0.1
+            ]
+        ],
+        "ratio_extractor": 2.0,
+        "time_extractor": "2023-10-05 08:11:02",
+        "image": "images/image1.png"
+    },
+    {
+        "background_extractor": "canteen",
+        "main_colors_extractor": [
+            [
+                [
+                    233,
+                    3,
+                    4
+                ],
+                0.8
+            ],
+            [
+                [
+                    12,
+                    45,
+                    2
+                ],
+                0.1
+            ],
+            [
+                [
+                    87,
+                    22,
+                    222
+                ],
+                0.1
+            ]
+        ],
+        "ratio_extractor": 2.0,
+        "time_extractor": "2023-10-05 08:11:02",
+        "image": "images/image2.png"
+    },
+    {
+        "background_extractor": "canteen",
+        "main_colors_extractor": [
+            [
+                [
+                    233,
+                    3,
+                    4
+                ],
+                0.8
+            ],
+            [
+                [
+                    12,
+                    45,
+                    2
+                ],
+                0.1
+            ],
+            [
+                [
+                    87,
+                    22,
+                    222
+                ],
+                0.1
+            ]
+        ],
+        "ratio_extractor": 2.0,
+        "time_extractor": "2023-10-05 08:11:02",
+        "image": "images/image3.png"
+    }
+]

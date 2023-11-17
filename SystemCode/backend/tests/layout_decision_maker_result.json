@@ -1,0 +1,56 @@
+[
+  {
+    "image": "images/image1.png",
+    "template_info": {
+      "template_idx": "A4_2_2",
+      "img_idx": 0,
+      "page_idx": 2,
+      "location": [
+        81.84,
+        80.1,
+        729.57,
+        510.18
+      ],
+      "template_size": [
+        794,
+        1123
+      ]
+    }
+  },
+  {
+    "image": "images/image2.png",
+    "template_info": {
+      "template_idx": "A4_2_2",
+      "img_idx": 1,
+      "page_idx": 2,
+      "location": [
+        81.84,
+        532.82,
+        729.57,
+        1058.67
+      ],
+      "template_size": [
+        794,
+        1123
+      ]
+    }
+  },
+  {
+    "image": "images/image3.png",
+    "template_info": {
+      "template_idx": "A4_1_3",
+      "img_idx": 0,
+      "page_idx": 1,
+      "location": [
+        35.55,
+        30.47,
+        612.85,
+        866.8
+      ],
+      "template_size": [
+        794,
+        1123
+      ]
+    }
+  }
+]

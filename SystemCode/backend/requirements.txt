@@ -1,0 +1,13 @@
+Flask
+Pillow==10.0.1
+pyheif
+imagehash
+exifread
+scikit-learn
+torch
+torchvision
+pandas==1.5.3
+opencv-python
+PyPDF2
+werkzeug
+flask_cors
